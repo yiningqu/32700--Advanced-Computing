@@ -1,0 +1,3 @@
+/Users/yiningqu/Desktop/研究生/advanced computing/session3_proprocessor/cmake-build-debug/CMakeFiles/session3_proprocessor.dir
+/Users/yiningqu/Desktop/研究生/advanced computing/session3_proprocessor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yiningqu/Desktop/研究生/advanced computing/session3_proprocessor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
